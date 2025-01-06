@@ -1,9 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm [Sanket Malvi]</h1>
 <h3 align="center">Welcome to my profile! I'm a passionate Full-Stack Developer with expertise in MERN Stack. I love working on innovative projects that challenge my creativity and problem-solving skills.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
-</p>
 
 ---
 
@@ -37,8 +34,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanketmalvi&show_icons=true&theme=radical" alt="sanketmalvi GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketmalvi&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
