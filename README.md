@@ -8,7 +8,7 @@ I am a [Full-Stack Developer]. I enjoy tackling complex problems and building so
 
 
 ## 💼 Skills & Expertise
-M
+
 - **Languages**: [JavaScript, Python]
 - **Frameworks**: [React, NodeJS, NextJS]
 - **Databases**: [SQL, MongoDB]
